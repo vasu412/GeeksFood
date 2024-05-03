@@ -156,6 +156,7 @@ footer{
   justify-content: center;
   align-items: center;
   height: 350px;
+  background-color: rgb(243 244 246);
 }
 
 .footerContent{
@@ -166,5 +167,8 @@ footer{
   width: 700px;
   text-align: center;
   height: 100%;
-  background-color: rgba(128, 128, 128, 0.669);
+}
+
+.endInfo span{
+  margin-right: 50px;
 }
